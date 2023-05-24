@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    margin: 30px;
+}
+
+.albun{
+    
+    width: 80%;
+    outline:10px solid #000;
+    margin: 0 auto;
+    display: grid;
+
+}
+
+.albun a{
+    background-color: blue;
+    padding: 0;
+
+}
+
+.albun img{
+    margin: 18px;
+}
+
+
+
+.fotos img{
+    float: left;
+    width: 30%;
+    border-radius: 30%;
+}
